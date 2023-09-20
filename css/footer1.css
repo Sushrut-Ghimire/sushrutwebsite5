@@ -1,0 +1,45 @@
+.close{
+    margin-top: 0px;
+    padding: 0px;
+    width: 100%;
+    height: auto;
+    background-color: rgb(39, 36, 36);
+    line-height: 70px;
+}
+
+.close h3{
+    padding: 0 15px;
+    width: 100%;
+    height: auto;
+    font-size: 25px;
+    color: white;
+}
+
+.close p{
+    padding: 0 15px;
+    width: 100%;
+    margin-top: 10px;
+    height: auto;
+    font-size: 25px;
+    color: white;
+}
+ .close li{
+    display: inline-block;
+    align-content: center;
+    list-style: none;
+ }
+
+ .close li a{
+    color: white;
+    opacity: 0.5;
+    font-size: 20px;
+    text-decoration: none;
+    justify-content: space-evenly;
+    padding: 0 190px;
+ }
+
+ .close li a:hover{
+    color: rgb(255, 255, 255);
+    transition: all 0.4s ease;
+    opacity: 1;
+ }
